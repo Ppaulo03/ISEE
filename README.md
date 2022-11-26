@@ -1,2 +1,2 @@
 # ISEE
-Programa para resolver problemas envolvendo fluxo de Potência, usando como tecnica Newto-Rapson
+Programa para resolver problemas envolvendo fluxo de carga, usando como tecnica Newto-Rapson
